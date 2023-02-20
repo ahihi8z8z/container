@@ -1,0 +1,7 @@
+gcc (Debian 10.2.1-6) 10.2.1 20210110
+
+Compiling and running program...
+
+Hello world
+
+Time run program: 2996434 nanoseconds
